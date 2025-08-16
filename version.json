@@ -4,7 +4,10 @@
     "✨ Added auto-update popup system",
     "🐛 Fixed minor bugs with UI",
     "⚡ Improved performance when loading data",
-    "🎨 Small design tweaks to buttons and animations"
+    "🎨 Small design tweaks to buttons and animations",
+    "🛠️ Better error handling during generation",
+    "📦 Updated dependencies for stability",
+    "🔄 Improved auto-update speed and reliability"
   ],
-  "download_url": "https://github.com/YourUsername/YourRepo/releases/latest"
+  "download_url": "https://github.com/sushi-dev55/Auto-Gen-Auto-Upd/releases/latest"
 }
