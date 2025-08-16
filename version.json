@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "changelog": [
+    "✨ Added auto-update popup system",
+    "🐛 Fixed minor bugs with UI",
+    "⚡ Improved performance when loading data",
+    "🎨 Small design tweaks to buttons and animations"
+  ],
+  "download_url": "https://github.com/YourUsername/YourRepo/releases/latest"
+}
