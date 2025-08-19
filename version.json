@@ -1,13 +1,9 @@
 {
-  "version": "1.2.0",
-  "changelog": [
-    "✨ Added auto-update popup system",
-    "🐛 Fixed minor bugs with UI",
-    "⚡ Improved performance when loading data",
-    "🎨 Small design tweaks to buttons and animations",
-    "🛠️ Better error handling during generation",
-    "📦 Updated dependencies for stability",
-    "🔄 Improved auto-update speed and reliability"
+  "version": "1.3.0",
+  "features": [
+    "Added Remover tab for deleting AppID .lua files from the Steam stplug-in directory",
+    "Navigation drawer with Home and Remover options",
+    "Bug fixes and performance improvements"
   ],
-  "download_url": "https://cdn.discordapp.com/attachments/1375396904476741682/1406160709934518302/09-20-16.mp4?ex=68a174b6&is=68a02336&hm=bc34e5dd89134449c25cdfa4f88c8526e67ff91b6674bee5854c0365789a0351&"
+  "download_url": "https://gofile.io/d/zDo4Bv"
 }
