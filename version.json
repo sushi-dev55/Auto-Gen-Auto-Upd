@@ -1,9 +1,9 @@
 {
   "version": "1.3.0",
-  "features": [
-    "Added Remover tab for deleting AppID .lua files from the Steam stplug-in directory",
-    "Navigation drawer with Home and Remover options",
-    "Bug fixes and performance improvements"
+  "changelog": [
+    "✨ Added Remover tab to easily delete AppID .lua files",
+    "🗂️ New navigation drawer with Home and Remover sections",
+    "🐞 Fixed minor bugs and improved overall performance"
   ],
   "download_url": "https://gofile.io/d/zDo4Bv"
 }
