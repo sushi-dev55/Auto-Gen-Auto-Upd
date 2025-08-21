@@ -1,9 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "changelog": [
-    "✨ Added Remover tab to easily delete AppID .lua files",
-    "🗂️ New navigation drawer with Home and Remover sections",
-    "🐞 Fixed minor bugs and improved overall performance"
+    "🛠️ Bug fixes",
+    "📩 Added Request tab to request games to be added"
   ],
   "download_url": "https://gofile.io/d/xprSc3"
 }
